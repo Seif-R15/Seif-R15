@@ -84,20 +84,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seif-R15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Seif-R15&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-
-	
-###
-
-<img src="https://raw.githubusercontent.com/Seif-R15/Seif-R15/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
