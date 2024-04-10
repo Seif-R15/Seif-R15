@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 - :trophy: 1x `CDSP` certificate.
 - :trophy: 1x `Data Engineer` certificate
 - :technologist: I love using AI and analyzing data as a solution for every `Problem`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](szc).
-- 
+- :thinking: Currently open for a new `job opportunity`, this is [MY RESUME](szc).
 <br>
 
 
