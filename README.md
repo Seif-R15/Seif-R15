@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 ###
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Seif-R15.Seif-R15&"  />
+</div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
@@ -29,9 +32,6 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/seifelrabbat/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Seif-R15.Seif-R15&"  />
-</div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
