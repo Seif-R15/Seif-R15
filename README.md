@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=Seif-R15&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Seif-R15/Seif-R15/output/snake.svg" alt="Snake animation" />
-
-###
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/Seif-R15/Seif-R15/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
