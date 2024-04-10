@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Seif-R15/Seif-R15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -67,7 +65,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-- :school: I am a `Junior Data Scientist & Machine Learning Engineer` at [Faculty of Computers & Informatics](https://www.epsiloneg.com/)
+- :school: I am a `Certified Data Scientist & Machine Learning Engineer` at [Epsilon AI](https://www.epsiloneg.com/)
 - :trophy: - 1x `CDSP` certificate.
            - 1x `Data Engineer` certificate
 - :technologist: I love using AI and analyzing data as a solution for every `Problem`.
