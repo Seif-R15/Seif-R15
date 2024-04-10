@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 <br><br>
 
-- :school: I am a `Certified Data Scientist & Machine Learning Engineer` at [Epsilon AI](https://www.epsiloneg.com/)
+- :school: I am a `Certified Data Scientist & Machine Learning Engineer` from [Epsilon AI](https://www.epsiloneg.com/)
+- 🕴️ I am a `Data Engineer Intern` at [Sprints](https://sprints.ai/)
 - :trophy: 1x `CDSP` certificate.
 - :trophy: 1x `Data Engineer` certificate
 - :technologist: I love using AI and analyzing data as a solution for every `Problem`.
