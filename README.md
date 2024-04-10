@@ -52,6 +52,13 @@ Here are some ideas to get you started:
 
 ## Most Used Tools & Profile Streaks 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seif-R15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Seif-R15&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -103,9 +110,17 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Seif-R15/Seif-R15/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Seif-R15/count.svg?"  />
+</div>
+
+###
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+
+
 
 
 </p>
