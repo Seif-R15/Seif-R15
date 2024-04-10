@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <br><br>
 
 - :school: I am a `Certified Data Scientist & Machine Learning Engineer` at [Epsilon AI](https://www.epsiloneg.com/)
-- :trophy: - 1x `CDSP` certificate.
-           - 1x `Data Engineer` certificate
+- :trophy: 1x `CDSP` certificate.
+- 1x `Data Engineer` certificate
 - :technologist: I love using AI and analyzing data as a solution for every `Problem`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](szc).
 - 
