@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 - 🕴️ I am a `Data Engineer Intern` at [Sprints](https://sprints.ai/)
 - :trophy: 1x `CDSP` certificate.
 - :trophy: 1x `Data Engineer` certificate
+- :trophy: 4x `Machine Learning and Data Science` Udemy certificates.
 - :technologist: I love using AI and analyzing data as a solution for every `Problem`.
 - :thinking: Currently open for a new `job opportunity`, this is [MY RESUME](szc).
 <br>
