@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi , I'm Seif El-Rabbat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Seif-R15.Seif-R15&"  />
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Certified+Data+Sceintist;Certified+Machine+Learning+Engineer;Data+Engineer+Intern;AI+Enthusiast;Competitive+Programmer;Comm.+and+Electronics+Engineer;Adaptive+learner"></a>
 </p>
 
 ###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Seif-R15.Seif-R15&"  />
-</div>
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
