@@ -93,9 +93,11 @@ Here are some ideas to get you started:
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-	<img src = "https://github.com/Seif-R15/Seif-R15/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+###
+
+<img src="https://raw.githubusercontent.com/Seif-R15/Seif-R15/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
@@ -103,3 +105,5 @@ Here are some ideas to get you started:
 
 
 </p>
+
+
