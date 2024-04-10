@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 
-
+## Most Used Tools & Profile Streaks 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=Seif-R15&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-## 🐍 A Snake Eating my Contributions Graph
+
 	
 ###
 
