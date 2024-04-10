@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 ###
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Seif-R15.Seif-R15&"  />
 </div>
 
